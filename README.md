@@ -12,4 +12,4 @@ I love apps, learning about AI/ML, and finance. My interest came from working at
 - Tools: Power BI, Git, Github, Claude, Codex, Docker, Azure, AWS, GitHub Actions, Figma, VS Code
 - Finance
 
-Below are my recent projects. Feel free to drop a message! Always opening to connecting and talking.
+Below are my recent projects. Feel free to drop a message! Always opening to connecting and talking at edisoncwhui@gmail.com
