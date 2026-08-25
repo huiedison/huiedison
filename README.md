@@ -1,4 +1,4 @@
-## Hi, I'm Edison
+## 👋 Hi, I'm Edison 
 
 I'm a 3rd year student @ UBC in Economics and Statistics
 
